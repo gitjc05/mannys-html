@@ -1,0 +1,66 @@
+body {
+    padding: 20px;
+    background: rgb(9,0,163);
+
+}
+
+.homebtn {
+    font-size: 60px;
+    color: rgb(157, 157, 157);
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.p1, .p2 {
+    margin-right: 25px;
+    font-size: 30px;
+}
+
+.main {
+    display: flex;
+}
+
+.im1 {
+    height: 600px;
+}
+
+a {
+    font-size: 25px;
+}
+
+.result_div {
+    display: none;
+}
+
+.circle_res {
+    display: none;
+}
+
+.response_head {
+    margin-top: 15px;
+    font-size: 30px;
+}
+
+.response_text {
+    font-size: 20px;
+}
+
+.response_text span {
+    font-weight: bold;
+}
+
+#response_type {
+    font-weight: normal;
+}
+
+button {
+    border-radius: 8px;
+    transition: all ease-in-out 0.2s;
+}
+
+button:active {
+    color: white;
+    background-color: black;
+}

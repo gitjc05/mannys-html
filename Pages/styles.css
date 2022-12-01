@@ -1,0 +1,42 @@
+body {
+    padding: 20px;
+}
+
+.homebtn {
+    font-size: 60px;
+    color: rgb(157, 157, 157);
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.p1, .p2 {
+    margin-right: 25px;
+    font-size: 30px;
+}
+
+.main {
+    display: flex;
+}
+
+.im1 {
+    height: 600px;
+}
+
+a {
+    font-size: 25px;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    top: 100px;
+    right: 0;
+    left: 0;
+    z-index: -3;
+}
+
+.top img {
+    height: 200px;
+}

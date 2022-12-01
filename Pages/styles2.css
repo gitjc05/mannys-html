@@ -1,0 +1,30 @@
+body {
+    padding: 20px;
+}
+
+.homebtn {
+    font-size: 60px;
+    color: rgb(157, 157, 157);
+    
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.p1, .p2 {
+    margin-right: 25px;
+    font-size: 30px;
+}
+
+.main {
+    display: flex;
+}
+
+.im1 {
+    height: 600px;
+}
+
+a {
+    font-size: 25px;
+}
